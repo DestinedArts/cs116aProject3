@@ -14,4 +14,4 @@ Rotating parent will affect children with the coordinate space having been chang
 
 ### TO-DO:
 insert joints function<br>
-Delete root, leave children as orphans; but then have to add back functionality to orphans. Technically should delete whole skeleton.
+Delete root, leave children as orphans; but then have to add back functionality to orphans. Technically should delete whole skeleton like in Maya.
